@@ -1,5 +1,5 @@
 # cara mengunakan
 <p> 1.yarn add whatsapp-web.js <p>
-2.yarn add qrcode-terminal
+<p> 2.yarn add qrcode-terminal <p>
 # cara menjalankan
-| node app.js
+<p> | node app.js <p>
